@@ -71,7 +71,7 @@ def is_two_pairs(hand):
             r_d[r] += 1
         else:
             r_d[r] = 1
-    return True if set(list(r_d.values())) == {2, 2, 1} else False
+    return True if len(list(r_d.values())) == 3 else False
 
 
 def is_pair(hand):
