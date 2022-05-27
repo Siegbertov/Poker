@@ -13,3 +13,7 @@
 - `RFC - RandomForestClassifier(the simplest)`
 - `ANN - "DEEP"(w/64 neurons) Neural Network`
 
+## *Some Checking*
+![hidden_neurons_accuracy_scores](hidden_neurons_accuracy_scores.png)
+
+- `The goal is to find balance between this SHAPE-NUMBER and ACCURACY-SCORE`
