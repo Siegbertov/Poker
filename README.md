@@ -4,4 +4,4 @@
 ![visualization](visualization.png)
 
 ## As we see
-![ranking](ranking.png)
+![ranking](ranking_hands.png)
